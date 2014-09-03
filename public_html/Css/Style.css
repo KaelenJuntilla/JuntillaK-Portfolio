@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+
+    
+article p {
+    Color:blue 
+}
+
+#current-link {
+    text-decoration: none;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    font-size: 35px;
+}
