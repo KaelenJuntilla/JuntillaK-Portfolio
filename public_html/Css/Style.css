@@ -1,11 +1,22 @@
 body{
-    background-color: gray;
+    background-image: url('http://cdn4.dualshockers.com/wp-content/uploads/2013/07/gaming-desktop-backgrounds.jpg?8cfc20')
+        
+       
+}
+a {
+    color: purple;
+    
+}
+#pic{
+    padding-left: 10px;
 }
 
-    
+
 article p {
-    Color:blue 
+    color: red; 
 }
+
+
 
 #current-link {
     text-decoration: none;
@@ -15,3 +26,18 @@ article p {
     text-transform: uppercase;
     font-size: 35px;
 }
+
+ body {
+    color:red;
+    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+    
+   
